@@ -1,2 +1,3 @@
-# LipetskStateFlashMap
-Demo project of Lipetsk State Atlas
+# Demo project of Lipetsk State Atlas
+
+© 2002 Alexander Karandeev
